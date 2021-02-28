@@ -2,6 +2,7 @@
 My Jupyter Notebook that analyzes and visualizes current COVID-19 data. Contains 4 complete charts that analyzes worldwide trends and insights from the United States and China. Involves analyzing a sample CSV with Pandas, manipulating columns and applying various Pandas functions, and visualizing results through line charts and stacked bar charts with MatPlotLib.
 
 Tutorial provided by [Codex](https://thecodex.me)
+
 Data provided by [John Hopkins University](https://github.com/datasets/covid-19)
 
 ### Results
