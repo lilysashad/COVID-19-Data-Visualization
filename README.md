@@ -1,7 +1,8 @@
 # COVID-19-Data-Visualization
-My Jupyter Notebook that displays graphs comparing COVID-19 cases across the United States, China, and worldwide. Libraries include Pandas and MatPlotLib.
+My Jupyter Notebook that analyzes and visualizes current COVID-19 data. Contains 4 complete charts that analyzes worldwide trends and insights from the United States and China. Involves analyzing a sample CSV with Pandas, manipulating columns and applying various Pandas functions, and visualizing results through line charts and stacked bar charts with MatPlotLib.
 
 Tutorial provided by [Codex](https://thecodex.me)
+Data provided by [John Hopkins University](https://github.com/datasets/covid-19)
 
 ### Results
 <img src='world.png' title='Comparison of COVID-19 cases between the United States, China, and across the globe' width='' alt='Comparison of COVID-19 cases between the United States, China, and across the globe' />
